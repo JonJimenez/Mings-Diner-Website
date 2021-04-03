@@ -1,0 +1,51 @@
+.welcome-image{
+   height:100%;
+   background:linear-gradient(rgba(73, 21, 21, 0.25), rgba(112, 98, 93, 0.55)),
+   url("https://www.boatondee.com/wp-content/uploads/2019/05/EAT_CIA_050_SamaUyghur_OYThumb.0.jpg");
+   background-size: cover;
+   background-repeat:no-repeat;
+   background-position:center top;
+   
+    
+}
+
+body.html{
+   height:100%;
+}
+.welcome-image >h2{
+   text-align:center;
+   padding-top:100px;
+   height:300px;
+   color:white;
+   font-size:4vw;  
+   text-shadow: 2px 2px #000000
+}
+.popular-dishes{
+   background-color:white;
+   text-align:center;
+}
+.popular-dishes>h2{
+   padding-top:60px;
+}
+footer {
+   height: 100px;
+   background: #eee;
+   padding-top:40px;
+   text-align:center;
+}
+.title-card{
+   text-align:center;
+   background-color: rgb(241, 238, 238);
+}
+.spacing-for-page{
+   height:20px;
+}
+input{
+   width:100%;
+}
+textarea{
+   width:100%;
+}
+.about-us-info>p{
+   padding-top:20px;
+}
